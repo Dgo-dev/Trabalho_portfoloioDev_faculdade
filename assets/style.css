@@ -115,7 +115,6 @@ section .info {
 .desc-info {
     color: var(--text-color);
     width: 400px;
-    
 }
 
 .desc-info .desc-text {
@@ -169,7 +168,7 @@ section .info {
     width: 60%;
     padding-bottom: 11rem;
     text-align: center;
-    
+    margin-top: 60px;
 }
 
 .sobre-content p {
